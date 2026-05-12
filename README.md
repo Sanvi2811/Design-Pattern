@@ -12,24 +12,7 @@ The goal of this repository is to understand, implement, and demonstrate commonl
 ## Patterns Covered
 - Factory Method Pattern
 - Abstract Factory Method Pattern
-### Creational Patterns
-- Factory Method
-- Abstract Factory
-- Builder
-- Singleton
 
-### Structural Patterns
-- Adapter
-- Bridge
-- Decorator
-- Facade
-
-### Behavioral Patterns
-- Observer
-- Strategy
-- State
-- Chain of Responsibility
-- Template Method
 
 ## Structure
 Each pattern is implemented in its own folder with:
