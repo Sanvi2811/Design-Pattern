@@ -12,8 +12,8 @@ The goal of this repository is to understand, implement, and demonstrate commonl
 ## Patterns Covered
 - Factory Method Pattern
 - Abstract Factory Method Pattern
-
-
+- Singleton Factory Pattern
+  
 ## Structure
 Each pattern is implemented in its own folder with:
 - Source code
