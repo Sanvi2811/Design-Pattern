@@ -13,6 +13,7 @@ The goal of this repository is to understand, implement, and demonstrate commonl
 - Factory Method Pattern
 - Abstract Factory Method Pattern
 - Singleton Factory Pattern
+- Adapter Pattern
   
 ## Structure
 Each pattern is implemented in its own folder with:
