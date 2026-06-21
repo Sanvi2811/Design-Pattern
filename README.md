@@ -14,7 +14,7 @@ The goal of this repository is to understand, implement, and demonstrate commonl
 - Abstract Factory Method Pattern
 - Singleton Factory Pattern
 - Adapter Pattern
-  
+- Bridge Pattern
 ## Structure
 Each pattern is implemented in its own folder with:
 - Source code
