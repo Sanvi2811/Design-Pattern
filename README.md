@@ -15,10 +15,7 @@ The goal of this repository is to understand, implement, and demonstrate commonl
 - Singleton Factory Pattern
 - Adapter Pattern
 - Bridge Pattern
-<<<<<<< HEAD
-  
-=======
->>>>>>> d31b316151d1571fafe8b512e270a8f659fe2acf
+- Builder Pattern
 ## Structure
 Each pattern is implemented in its own folder with:
 - Source code
